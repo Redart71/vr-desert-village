@@ -1,6 +1,6 @@
-# 🔮 Projet VR – Aventure dans le désert
+# Projet VR – Aventure dans le désert
 
-## 🎮 Présentation
+## Présentation
 
 Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur Meta Quest 2/3, conçue avec **Unity**, **XR Interaction Toolkit** et **Normcore**. Le joueur évolue dans un village désertique mystérieux et interagit avec plusieurs éléments de l’environnement.
 
@@ -12,7 +12,7 @@ Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur
 
 ---
 
-## 👥 Membres du binôme
+## Membres du binôme
 
 - Étudiant 1 : Arthur JAFFRE 
 - Étudiant 2 : Ahmed Ishak BOUGUEROUA
@@ -20,7 +20,7 @@ Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur
 
 ---
 
-## 🧪 Fonctionnalités et interactions développées
+## Fonctionnalités et interactions développées
 
 | Interaction | Description |
 |------------|-------------|
@@ -33,14 +33,14 @@ Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur
  
 ---
 
-## ⚠️ Difficultés rencontrées
+## Difficultés rencontrées
 
 - Détection du **clavier par les manettes VR** : problématique non résolue à ce jour.
 - Gestion du **positionnement précis en téléportation** (ajustements manuels requis).
 
 ---
 
-## 🎓 Ce que nous avons appris
+## Ce que nous avons appris
 
 - Utilisation du **XR Interaction Toolkit** pour créer des interactions immersives.
 - Intégration de **Normcore** pour le multijoueur VR.
@@ -49,7 +49,7 @@ Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur
 
 ---
 
-## 🚀 Lancement du projet
+## Lancement du projet
 
 1. Ouvrir avec Unity **version 6000.0.41f1 (URP)**
 2. Scène : `Scenes/VillageVR`
@@ -59,7 +59,7 @@ Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur
 
 ---
 
-## 🧾 Licence
+## Licence
 
 Ce projet est réalisé dans le cadre pédagogique de l’École Hexagone.  
 Usage uniquement académique.
