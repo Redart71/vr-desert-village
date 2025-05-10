@@ -1,0 +1,2 @@
+C:\Users\arthu\Documents\Ecole-Hexagone\VR_HEXAGONE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\arthu\Documents\Ecole-Hexagone\VR_HEXAGONE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

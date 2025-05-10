@@ -1,0 +1,55 @@
+# ========== Unity defaults ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+Sysinfo.txt
+
+# ========== Unity generated settings (optional to ignore) ==========
+# [Uu]serSettings/    # Uncomment if you want Unity settings excluded (e.g., resolution)
+
+# ========== Asset meta data (keep meta files) ==========
+!*.meta
+
+# ========== Ignore local-only folders ==========
+.DS_Store
+Thumbs.db
+
+# ========== IDE / Editor settings ==========
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.sln.iml
+
+# ========== Rider ==========
+.idea/
+
+# ========== Unity Asset Store Tools ==========
+# Uncomment if needed
+# [Aa]ssets/AssetStoreTools*
+
+# ========== Normcore cache ==========
+Assets/Normcore/Resources/NormcoreAppSettings.asset
+
+# ========== Builds / Platform-specific ==========
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.zip
+
+# ========== Oculus build folders ==========
+[Bb]uilds_Oculus/
