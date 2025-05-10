@@ -1,7 +1,6 @@
 # 🔮 Projet VR – Aventure dans le désert
 
 ## 🎮 Présentation
-
 Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur Meta Quest 2/3, conçue avec **Unity**, **XR Interaction Toolkit** et **Normcore**. Le joueur évolue dans un village désertique mystérieux et interagit avec plusieurs éléments de l’environnement.
 
 ![capture1](images\Capture d'écran 2025-05-10 213118.png)  
@@ -63,6 +62,3 @@ Ce projet Unity propose une **expérience immersive en réalité virtuelle** sur
 
 Ce projet est réalisé dans le cadre pédagogique de l’École Hexagone.  
 Usage uniquement académique.
-
----
-
